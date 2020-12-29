@@ -43,7 +43,7 @@ scissors = '''
 '''
 
 print ('''
-Welcome to Jankenpo Game\n 
+Welcome to Jankenpon Game\n 
 Rock (0), Paper(1), Scissors(2)
 ''')
 
